@@ -106,7 +106,7 @@ Student who builds interesting projects. Particularly interested in AI/ML and ag
 
 **Certifications**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4acb9df6-dbd0-46a9-9a18-867e2707b3ff" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/4acb9df6-dbd0-46a9-9a18-867e2707b3ff/public_url"><img src="https://images.credly.com/size/200x200/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" width="100" alt="Google AI Professional Certificate" /></a>
 
 ---
 
