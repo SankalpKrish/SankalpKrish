@@ -1,6 +1,6 @@
 ## Sankalp Krish
 
-_Bangalore, India_
+_Bengaluru, India_
 
 Student who builds interesting projects. Particularly interested in AI/ML, agentic engineering, and the future of cloud computing.
 
