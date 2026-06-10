@@ -2,9 +2,20 @@
 
 _Bangalore, India_
 
-Student who builds interesting projects. Particularly interested in AI/ML and agentic engineering.
+Student who builds interesting projects. Particularly interested in AI/ML, agentic engineering, and the future of cloud computing.
 
 [**sankalpkrish.com**](https://sankalpkrish.com)
+
+## Current Work
+
+- **sankalpkrish.com** — Building a professional portfolio/resume landing page.
+  The current terminal-themed site moves to `tui.sankalpkrish.com`.
+  → [`portfolio-site`](https://github.com/SankalpKrish/portfolio-site)
+
+- **Fluent Usage** — Windows desktop app (WinUI 3, .NET 10) for tracking
+  Claude/open code/Codex API usage across multiple profiles with system-tray
+  integration and usage alerts.
+  → [`fluent-usage`](https://github.com/SankalpKrish/fluent-usage)
 
 ---
 
