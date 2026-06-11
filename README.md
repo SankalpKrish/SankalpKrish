@@ -118,6 +118,6 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
 
 ## Connect
 
-- **Portfolio:** [sankalpkrish.com](https://sankalpkrish.com)
+- **Portfolio:** [tui.sankalpkrish.com](https://tui.sankalpkrish.com)
 - **LinkedIn:** [linkedin.com/in/sankalp-krish](https://linkedin.com/in/sankalp-krish)
 - **Email:** [sankalpkrish@outlook.com](mailto:sankalpkrish@outlook.com)
