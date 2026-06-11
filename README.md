@@ -12,11 +12,6 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
   The current terminal-themed site moves to `tui.sankalpkrish.com`.
   → [`portfolio-site`](https://github.com/SankalpKrish/portfolio-site)
 
-- **Fluent Usage** — Windows desktop app (WinUI 3, .NET 10) for tracking
-  Claude/open code/Codex API usage across multiple profiles with system-tray
-  integration and usage alerts.
-  → [`fluent-usage`](https://github.com/SankalpKrish/fluent-usage)
-
 ---
 
 ## Featured Projects
