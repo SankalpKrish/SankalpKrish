@@ -4,7 +4,7 @@ _Bengaluru, India_
 
 Student who builds interesting projects. Particularly interested in AI/ML, agentic engineering, and the future of cloud computing.
 
-[**sankalpkrish.com**](https://sankalpkrish.com)
+[**tui.sankalpkrish.com**](https://tui.sankalpkrish.com)
 
 ## Current Work
 
