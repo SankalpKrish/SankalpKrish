@@ -41,28 +41,7 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
       <p><a href="https://github.com/ProNoobJumper/MIDI.ai">View on GitHub →</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>The-Procrastination-Engine</h3>
-      <p>A mesmerizing digital clock made of hundreds of tiny synchronized clocks arranged in a 6x4 grid — each hand spins and locks to form larger digits.</p>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
-      </p>
-      <p><a href="https://github.com/ProNoobJumper/The-Procrastination-Engine">View on GitHub →</a></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>fluent-usage</h3>
-      <p>Windows desktop app (WinUI 3, .NET 10) for tracking Claude API usage across multiple profiles with system-tray integration.</p>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" />
-      </p>
-      <p><a href="https://github.com/SankalpKrish/fluent-usage">View on GitHub →</a></p>
-    </td>
-  </tr>
+
 </table>
 
 ---
