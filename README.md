@@ -12,6 +12,10 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
   The current terminal-themed site moves to `tui.sankalpkrish.com`.
   → [`portfolio-site`](https://github.com/SankalpKrish/portfolio-site)
 
+- **Litetify** — Lightweight, performant, moddable Spotify Premium desktop client.
+  Built on Tauri (Rust) + React/TypeScript.
+  → [`Litetify`](https://github.com/SankalpKrish/Litetify)
+
 ---
 
 ## Featured Projects
