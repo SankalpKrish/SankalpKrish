@@ -12,11 +12,11 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
   The current terminal-themed site moves to `tui.sankalpkrish.com`.
   → [`portfolio-site`](https://github.com/SankalpKrish/portfolio-site)
 
-- **Litetify** (private) — v1 release of the Spotify Premium desktop client.
+- **Litetify** — v1.0.0 published — lightweight, moddable Spotify Premium desktop client.
   Built on Tauri (Rust) + React/TypeScript.
   → [`Litetify`](https://github.com/SankalpKrish/Litetify)
 
-- **Litetify-Dev** (public) — Pre-release development of the lightweight,
+- **Litetify-Dev** (public) — Ongoing development of the lightweight,
   performant, moddable Spotify Premium desktop client.
   → [`Litetify-Dev`](https://github.com/SankalpKrish/Litetify-Dev)
 
@@ -26,6 +26,17 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
 
 <table>
   <tr>
+    <td width="50%" align="center">
+      <h3>Litetify</h3>
+      <p>Lightweight, moddable Spotify Premium desktop client with native shell, OS keychain auth, and themes/extensions via mods/ folder.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+      </p>
+      <p><a href="https://github.com/SankalpKrish/Litetify">View on GitHub →</a></p>
+    </td>
     <td width="50%" align="center">
       <h3>portfolio-site-tui</h3>
       <p>Terminal-themed portfolio at sankalpkrish.com with WebGPU particle system (WGSL compute shaders) and pixel-art mascot engine.</p>
@@ -37,6 +48,8 @@ Student who builds interesting projects. Particularly interested in AI/ML, agent
       </p>
       <p><a href="https://github.com/SankalpKrish/portfolio-site-tui">View on GitHub →</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3>MIDI.ai</h3>
       <p>Modular Python framework for polyphonic audio-to-MIDI transcription using Demucs source separation, Basic Pitch, and PrettyMIDI.</p>
